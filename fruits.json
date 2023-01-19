@@ -1,3 +1,13 @@
 {
-	fruits:["Apple","Banana","Pineapple","Pear"]
+	fruits:["Apple",
+		"Banana",
+		"Pineapple",
+		"Pear",
+		"berries",
+		"strawberries",
+		"raspberries",
+		"blueberries",
+		"kiwifruit",
+		"passionfruit"
+	]
 }
